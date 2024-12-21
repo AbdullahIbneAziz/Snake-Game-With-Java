@@ -1,5 +1,6 @@
 # Snake Game with Java
 ### Compile and Run
+![Snake Game Java](https://github.com/user-attachments/assets/2ded0eeb-e226-42e3-9c10-8a29ceade9c1)
 
 1. Open the `SnakeGame.java` file in your IDE or text editor.
 2. Compile the program using the following command:
